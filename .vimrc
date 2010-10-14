@@ -65,6 +65,8 @@ endif
 
 syntax on
 
+set cinoptions=t0,:0
+
 set shiftwidth=4
 set tabstop=4
 set expandtab
